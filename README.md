@@ -3,6 +3,8 @@ In this project, you will use R and apply exploratory data analysis techniques t
 
 Prepare for this project with: Data Analysis with R.
 
+#### Please [Click Here](http://htmlpreview.github.io/?https://github.com/messamrashad/Explore-and-Sumarize-Data-using-R/blob/master/Project7_UdacityDAND.html) to preview the .Rmd file as a web page.
+
 For the final project, you will conduct your own exploratory data analysis and create an RMD file that explores the variables, structure, patterns, oddities, and underlying relationships of a data set of your choice.
 
 The analysis should be almost like a stream-of-consciousness as you ask questions, create visualizations, and explore your data.
@@ -35,3 +37,5 @@ This should contain a few sentences about your struggles, successes, and ideas f
 - Step Five - Knit your RMD file Your knitted RMD file should not be one long chunk of R code. It should contain text and plots interspersed throughout. The goal is to give the person reading the file insight into what you were thinking as you explored your data.
 
 - Step Six - Document your Data (if you chose your own data set) The data set you submit (only if you chose your own) should include a text file, like those in the R documentation (e.g. ?diamonds) that describes the source of your data and an explanation of the variables in the data set (definition of any variables, units, levels of categorical variables, and the data generating process, such as how data was collected if possible).
+
+#### Please [Click Here](http://htmlpreview.github.io/?https://github.com/messamrashad/Explore-and-Sumarize-Data-using-R/blob/master/Project7_UdacityDAND.html) to preview the .Rmd file as a web page.
