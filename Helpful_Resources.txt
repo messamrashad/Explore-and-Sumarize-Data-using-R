@@ -1,0 +1,14 @@
+1- Red wine dataset and description of each attribute: 
+  https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+  
+2- StackOverflow:
+   https://www.stackoverflow.com
+   
+3- How to create Correlation Coefficient matrix:
+   http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software
+   
+4- Plotting multiple plots with gridExtra:
+   http://www.r-bloggers.com/gridextra-%E2%80%93-multiple-plots-from-ggplot2/
+   
+5- Plotting labeling with the labs() function:
+   http://svitsrv25.epfl.ch/R-doc/library/ggplot2/html/labs-df.html
